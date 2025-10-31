@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Framworks,etc**
 
-- 💬 Ask me about **Linux, react, C++**
+- 💬 Ask me about **Linux, react, Cybersecurity...**
 
 - 📫 How to reach me **borhahitesh@gmail.com**
 
